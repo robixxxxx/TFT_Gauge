@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../Digital_Gauge"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"tft_espi.h": "c",
+			"tft_espi_esp8266.h": "c",
+			"fs.h": "c",
+			"time.h": "c"
+		}
+	}
+}
