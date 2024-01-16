@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <Gauge.h>
+#include "Gauge.h"
 
 TFT_eSPI tft = TFT_eSPI();
 TFT_eSprite sprite = TFT_eSprite(&tft);
